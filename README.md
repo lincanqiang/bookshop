@@ -28,10 +28,11 @@
 3. 安装Redis,使用默认配置即可。
 4. 启动项目，访问8443端口。
 5. 可选：修改/config/AliYunOssConfig，填入你自己的阿里云图床配置。（非必要，如不配置，上传图片功能将无法使用）
+
 **bookshop-vue为前端项目文件，单独运行无法获取静态资源。端口为8080，跨域配置已完成。**
 命令行中进入项目目录
 1. 安装依赖
-	`npm intsall` 
+<br/>`npm intsall` 
 2.运行 
-   `npm run serve`
+<br/>`npm run serve`
 
