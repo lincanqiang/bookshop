@@ -32,7 +32,7 @@
 **bookshop-vue为前端项目文件，单独运行无法获取静态资源。端口为8080，跨域配置已完成。**
 1. 命令行中进入项目目录
 2. 安装依赖
-npm intsall` 
+`npm intsall` 
 3. 运行 
-npm run serve`
+`npm run serve`
 
